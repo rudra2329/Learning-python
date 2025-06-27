@@ -16,3 +16,9 @@ X=input("Enter a number:")
 print("The type x is",type (X))
 X=int(X)
 print("The type X is",type(X))
+
+#code_3
+#Add two number
+Num1=int(input("Enter the first number:")) 
+Num2=int(input("Enter the second number:")) 
+print("The sum is",Num1+Num2)

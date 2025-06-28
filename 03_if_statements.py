@@ -12,7 +12,7 @@ if(Num%3):
 else:
     print("even number")
 
-#code_3
+#code_03
 #using if,elif,else finding grade 
 Mark=int(input("Enter a number:")) 
 if(Mark>=90):
@@ -23,3 +23,14 @@ elif(Mark>=60):
     print("C grade") 
 else:
     print("Fail")
+
+#code_04
+#To find which is greater
+a=int(input("Enter a first number:")) 
+b=int(input("Enter a second number:"))
+if(a>b):
+    print("A is greater") 
+elif(a==b): 
+    print("Both are equal") 
+else:
+    print("B is greater")

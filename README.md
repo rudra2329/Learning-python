@@ -6,5 +6,5 @@ My python practice files on the path to AI
 # 04_loop
 # 05_list
 # 06_loop in list
-# 07_
+# 07_python function
 #
